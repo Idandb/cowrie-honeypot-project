@@ -1,0 +1,10 @@
+KB002: Troubleshooting Offline Printer Issues
+--------------------------------------------
+1. Check printer power: Ensure printer is turned on and status lights are normal (no error indicators).
+2. Check physical connections: Verify USB or network cable is securely connected to both printer and PC/network port.
+3. Restart printer and computer: Turn off printer, wait 30 seconds, turn it back on. Restart your computer.
+4. Check print queue: Open print queue on your computer, cancel any stuck print jobs.
+5. Ping printer IP (for network printers): If known, try to ping the printer's IP address. If no reply, there might be a network issue.
+   - Common printer IPs: 192.168.1.200, 192.168.1.201
+6. Reinstall printer drivers: As a last resort, try removing and reinstalling the printer drivers from the manufacturer's website or company intranet.
+7. If problem persists, note down printer model, error messages, and steps taken, then contact IT Support.

@@ -1,0 +1,11 @@
+Case ID: 00123
+User: jdoe@companyserver.com
+Reported: 2025-05-16 09:30
+Issue: Unable to connect to VPN from home. Error message "Connection timed out".
+Assigned to: support_team_member_A
+Status: In Progress
+
+Actions:
+- 2025-05-16 09:45: Advised user to check home internet connection.
+- 2025-05-16 10:15: User confirmed internet OK. Checked VPN server logs - no specific errors for jdoe.
+- 2025-05-16 11:00: Suggested user try reinstalling VPN client. Awaiting update.

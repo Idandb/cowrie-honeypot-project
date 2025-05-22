@@ -1,0 +1,14 @@
+# Cowrie data and logs
+cowrie_data/
+cowrie_logs/
+cowrie_downloads/
+cowrie_tty_logs/
+
+# Python virtual environment (if you created one locally for testing)
+cowrie-env/
+
+# IDE/Editor specific files (optional, add as needed)
+.vscode/
+.idea/
+*.pyc
+__pycache__/

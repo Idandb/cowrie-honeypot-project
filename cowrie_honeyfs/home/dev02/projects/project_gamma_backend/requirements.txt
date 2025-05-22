@@ -1,0 +1,4 @@
+Flask>=2.0.0
+pytest>=6.0.0
+# requests # For potential external API calls
+# gunicorn # For production deployment

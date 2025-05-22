@@ -1,0 +1,12 @@
+Knowledge Base Index - CompanyServer Support
+Last Updated: 2025-05-12
+
+Available Articles:
+-------------------
+1. VPN Client Setup Guide (Windows 10/11) - kb001_vpn_setup_guide.txt
+2. Troubleshooting Offline Printer Issues      - kb002_printer_offline_fix.txt
+3. Password Reset Policy and Procedure        - kb003_reset_password_policy.txt
+4. Accessing Shared Network Drives           - kb004_shared_drives_access.txt
+5. Common Email Client Configuration         - kb005_email_setup.txt
+
+For internal use only. Do not distribute.

@@ -1,0 +1,8 @@
+May 18 11:00:01 my-honeypot-server custom_app_module[5050]: INFO: Module initialised successfully. Version 1.7.3 loaded.
+May 18 11:00:05 my-honeypot-server custom_app_module[5050]: DEBUG: Checking for new tasks in job_queue_alpha.
+May 18 11:05:10 my-honeypot-server custom_app_module[5050]: INFO: Processing task ID 789A01, type: IMAGE_RESIZE.
+May 18 11:05:12 my-honeypot-server custom_app_module[5050]: WARNING: Task 789A01 encountered a minor I/O delay, retrying in 5s.
+May 18 11:05:18 my-honeypot-server custom_app_module[5050]: INFO: Task 789A01 completed successfully after 1 retry. Output saved to /mnt/processed_images.
+May 18 11:15:00 my-honeypot-server health_monitor_svc[5055]: INFO: System health check: OK. CPU_Load: 15%, Mem_Usage: 35%, Disk_IO_Wait: 2ms.
+May 18 11:20:00 my-honeypot-server custom_app_module[5050]: ERROR: Failed to connect to message broker at mq.internal.example.com:5672. Reason: Connection refused.
+May 18 11:20:05 my-honeypot-server custom_app_module[5050]: INFO: Attempting to reconnect to message broker... (Attempt 1/5)

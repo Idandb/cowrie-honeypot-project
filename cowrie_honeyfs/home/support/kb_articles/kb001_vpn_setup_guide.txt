@@ -1,0 +1,9 @@
+KB001: VPN Client Setup Guide (Windows 10/11)
+---------------------------------------------
+1. Download the CompanyVPN client from http://intranet.companyserver.com/downloads/CompanyVPN_Client_latest.msi
+2. Run the installer with administrator privileges.
+3. After installation, launch CompanyVPN client.
+4. Enter server address: vpn.companyserver.com
+5. Authenticate with your CompanyServer username and password.
+6. If connection fails, verify your internet connection and ensure port 443 UDP is not blocked by your firewall.
+7. For persistent issues, collect client logs and open a ticket with IT Support.

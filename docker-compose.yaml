@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  cowrie:
+    image: cowrie/cowrie:latest
+    container_name: cowrie_honeypot
+    ports:
+      - "22:2222" # מיפוי פורט 22 במחשב המארח לפורט 2222 בקונטיינר
+    volumes:
+      - ./cowrie_etc:/cowrie/cowrie-git/etc
+      - ./cowrie_honeyfs:/cowrie/cowrie-git/honeyfs
+      - ./cowrie_textcmds:/cowrie/cowrie-git/txtcmds
+      - ./cowrie_data:/cowrie/cowrie-git/data
+      - ./cowrie_logs:/cowrie/cowrie-git/var/log/cowrie
+      - ./cowrie_downloads:/cowrie/cowrie-git/var/lib/cowrie/downloads
+      - ./cowrie_tty_logs:/cowrie/cowrie-git/var/lib/cowrie/tty
+    restart: unless-stopped
+    # environment:
+    #   - COWRIE_SSH_LISTEN_PORT=2222

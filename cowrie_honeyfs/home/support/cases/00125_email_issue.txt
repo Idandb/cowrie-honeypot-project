@@ -1,0 +1,17 @@
+Case: 00125 - Email Delivery Delayed
+Reported by: admin (on behalf of sales_user_placeholder)
+Date: 2025-05-18 11:00
+Severity: Medium
+
+Description: Emails sent by sales_user_placeholder to external clients are experiencing significant delays (up to 2 hours).
+Internal email delivery is fine.
+
+Troubleshooting:
+- Checked mail server (mail.companyserver.com) queue: Normal.
+- Checked outgoing SMTP logs: No immediate errors, but slight increase in deferral messages.
+- Checked RBLs for our mail IP: Clean.
+- Suspect potential issue with intermediate mail relay or recipient-side filtering.
+
+Next Steps:
+- Monitor mail queue closely for the next 4 hours.
+- If issue persists, escalate to network team / ISP.
