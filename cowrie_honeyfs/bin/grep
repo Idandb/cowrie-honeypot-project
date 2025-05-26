@@ -1,0 +1,3 @@
+#!/bin/sh
+# Cowrie fake command: grep
+exit 0

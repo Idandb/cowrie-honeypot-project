@@ -1,0 +1,7 @@
+Database Service: mysqld (pid 1234) is running... 
+Connections: 2 active
+Replication Status: 
+Slave_IO_Running: Yes, 
+Slave_SQL_Running: Yes Last
+Backup: 2025-05-22 02:00:00 Storage 
+Used: 75%

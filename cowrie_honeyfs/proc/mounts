@@ -1,0 +1,2 @@
+rootfs / rootfs rw 0 0
+/dev/root / ext4 rw,relatime,data=ordered 0 0

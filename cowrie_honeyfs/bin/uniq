@@ -1,0 +1,3 @@
+#!/bin/sh
+# Cowrie fake command: uniq
+exit 0

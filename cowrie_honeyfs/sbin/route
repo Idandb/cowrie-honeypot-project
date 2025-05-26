@@ -1,0 +1,3 @@
+#!/bin/sh
+# Cowrie fake command: route
+exit 0

@@ -1,0 +1,8 @@
+Project Alpha - Tasks & Notes
+
+- Finalize API documentation for v1.2 release.
+- Investigate performance bottleneck in data processing module. (Check logs on server prod-db-02)
+- Write unit tests for new user authentication feature.
+- Meeting with marketing team re: new UI mockups - Wed 10 AM.
+- Remember to update local dev environment with latest libs.
+- Ask admin about access to the new staging server.

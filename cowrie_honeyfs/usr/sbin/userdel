@@ -1,0 +1,3 @@
+#!/bin/sh
+# Cowrie fake command: userdel
+exit 0

@@ -1,0 +1,3 @@
+#!/bin/sh
+# Cowrie fake command: strace
+exit 0

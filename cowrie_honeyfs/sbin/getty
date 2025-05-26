@@ -1,0 +1,3 @@
+#!/bin/sh
+# Cowrie fake command: getty
+exit 0

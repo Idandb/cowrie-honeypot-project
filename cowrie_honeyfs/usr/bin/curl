@@ -1,0 +1,3 @@
+#!/bin/sh
+# Cowrie fake command: curl
+exit 0

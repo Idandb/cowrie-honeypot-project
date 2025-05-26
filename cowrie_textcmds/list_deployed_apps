@@ -1,0 +1,5 @@
+Deployed Applications: 
+- Main Portal (v3.5.2) - /var/www/main_portal 
+- API Gateway (v1.8.0) - /opt/api_gateway 
+- User Management Service (v2.2.1) - /opt/user_svc 
+- Payment Processor (v4.0.3) - /opt/payment_proc (Restricted)

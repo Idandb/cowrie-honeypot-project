@@ -1,0 +1,3 @@
+#!/bin/sh
+# Cowrie fake command: who
+exit 0

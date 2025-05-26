@@ -12,3 +12,5 @@ cowrie-env/
 .idea/
 *.pyc
 __pycache__/
+*.pyo
+.DS_Store

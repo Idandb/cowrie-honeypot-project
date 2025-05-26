@@ -1,0 +1,6 @@
+Security Policy Summary (ver 1.7): 
+- Strong passwords required (min 12 chars, mixed case, numbers, symbols). 
+- Regular security audits performed quarterly. 
+- All external access logged and monitored. 
+- VPN required for remote admin access. 
+Full policy document: /etc/security/master_policy.pdf (Restricted)

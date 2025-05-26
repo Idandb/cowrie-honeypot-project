@@ -1,0 +1,5 @@
+Process sshd (PID 1024): Running 
+Process mysqld (PID 1130): Running 
+Process apache2 (PID 1155): Running 
+Process crond (PID 980): Running 
+All critical processes are active.

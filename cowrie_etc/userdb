@@ -2,3 +2,4 @@ admin:x:*
 dev02:x:*
 testuser:x:*
 support:x:*
+jdoe:x:*

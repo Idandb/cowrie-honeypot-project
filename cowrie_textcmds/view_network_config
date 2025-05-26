@@ -1,0 +1,7 @@
+```
+Interface: eth0
+MAC Address: 00:1A:2B:3C:4D:5E
+IP Address: 10.0.2.15
+Netmask: 255.255.255.0
+Gateway: 10.0.2.2
+DNS Servers: 8.8.8.8, 8.8.4.4

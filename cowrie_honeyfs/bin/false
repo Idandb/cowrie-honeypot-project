@@ -1,0 +1,3 @@
+#!/bin/sh
+# Cowrie fake command: false
+exit 0

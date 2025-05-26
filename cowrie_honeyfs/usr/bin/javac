@@ -1,0 +1,3 @@
+#!/bin/sh
+# Cowrie fake command: javac
+exit 0

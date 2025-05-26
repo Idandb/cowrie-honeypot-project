@@ -1,0 +1,5 @@
+Interface eth0: UP 
+Gateway Ping: 192.168.1.1 - OK 
+External DNS (8.8.8.8) Ping: OK 
+Internal DNS (10.0.0.2) Ping: OK 
+Network services: STABLE

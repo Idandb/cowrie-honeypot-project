@@ -1,0 +1,3 @@
+#!/bin/sh
+# Cowrie fake command: csh
+exit 0
