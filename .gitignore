@@ -1,9 +1,4 @@
 # Cowrie data and logs
-cowrie_data/
-cowrie_logs/
-cowrie_downloads/
-cowrie_tty_logs/
-
 # Python virtual environment (if you created one locally for testing)
 cowrie-env/
 
