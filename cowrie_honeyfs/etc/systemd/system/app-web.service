@@ -1,0 +1,8 @@
+[Unit]
+Description=App Web
+After=network.target docker.service
+[Service]
+ExecStart=/usr/bin/docker compose -f /opt/app/docker-compose.yml up -d
+ExecStop=/usr/bin/docker compose -f /opt/app/docker-compose.yml down
+[Install]
+WantedBy=multi-user.target
