@@ -83,18 +83,6 @@ docker compose logs -f
 Get-Content .\cowrie_logs\audit.log -Wait
 Get-Content .\cowrie_logs\cowrie.json -Wait
 ```
-
-🔗 Integration with Cowrie Logger
-
-This honeypot generates JSON logs in cowrie_logs/ (mapped to /var/log/cowrie).
-To visualize and analyze these logs, you can use cowrie-logger
-.
-
-Deploy this honeypot (see Quick Start above).
-
-Run cowrie-logger.
-
-Upload or link the generated JSON logs from cowrie_logs/.
 ---
 
 ## ⚠️ Notes
